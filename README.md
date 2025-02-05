@@ -29,3 +29,5 @@ API Consumption: The Java application should fetch data from a publicly availabl
 4 Error Handling: The program should handle errors gracefully, including API failures, network issues, or unexpected JSON structures.
 
 OUTPUT OF THE TASK :
+
+![Image](https://github.com/user-attachments/assets/9fda040f-a2cf-4e74-b955-0b18aa4d3029)
